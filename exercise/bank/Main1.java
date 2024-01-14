@@ -5,7 +5,7 @@ import gr.aueb.cf.exercise.bank.model.Holder;
 import gr.aueb.cf.exercise.bank.model.JointAccount;
 import gr.aueb.cf.exercise.bank.model.OverdraftAccount;
 
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
         // Create Account
         Holder primaryHolder = new Holder("John Doe");
