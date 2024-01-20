@@ -1,4 +1,4 @@
-package gr.aueb.cf.exercise;
+package gr.aueb.cf.exercise.preliminary;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

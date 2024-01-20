@@ -1,4 +1,4 @@
-package gr.aueb.cf.exercise;
+package gr.aueb.cf.exercise.preliminary;
 
 public class somethingApp {
     public static void main(String[] args) {

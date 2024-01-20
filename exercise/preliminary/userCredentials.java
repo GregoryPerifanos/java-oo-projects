@@ -1,4 +1,4 @@
-package gr.aueb.cf.exercise;
+package gr.aueb.cf.exercise.preliminary;
 
 public class userCredentials {
     private long id;

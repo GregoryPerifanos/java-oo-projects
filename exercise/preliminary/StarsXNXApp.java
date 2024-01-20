@@ -1,8 +1,8 @@
-package gr.aueb.cf.exercise;
+package gr.aueb.cf.exercise.preliminary;
 
 import java.util.Scanner;
 
-public class StarsLineNApp {
+public class StarsXNXApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n;
@@ -12,7 +12,10 @@ public class StarsLineNApp {
         n = scanner.nextInt();
 
         for (int i = 1; i <= n; i++){
-            System.out.print("*");
+            for (int j = 1; j<= n; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
         }
     }
 }

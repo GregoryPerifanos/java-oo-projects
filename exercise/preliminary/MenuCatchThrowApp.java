@@ -1,4 +1,4 @@
-package gr.aueb.cf.exercise;
+package gr.aueb.cf.exercise.preliminary;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

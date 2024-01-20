@@ -1,4 +1,4 @@
-package gr.aueb.cf.exercise;
+package gr.aueb.cf.exercise.preliminary;
 
 import gr.aueb.cf.exercise.User;
 import gr.aueb.cf.exercise.userCredentials;

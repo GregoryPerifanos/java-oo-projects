@@ -1,4 +1,4 @@
-package gr.aueb.cf.exercise;
+package gr.aueb.cf.exercise.preliminary;
 
 public class SaintGeorgeKnight {
     private static final SaintGeorgeKnight INSTANCE = new SaintGeorgeKnight();
